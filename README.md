@@ -10,3 +10,7 @@ MIT
 
 ## Supported targets
 micro/python/microbit
+
+## Link
+
+https://kitronik.co.uk/products/5642-stopbit-traffic-light-for-bbc-microbit?_pos=1&_sid=e9834a768&_ss=r
